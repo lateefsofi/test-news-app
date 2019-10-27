@@ -1,0 +1,12 @@
+.name-date-container{
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  width: 100%;
+}
+.paragraph {
+  text-align: left;
+}
+img{
+  width: 100%;
+}

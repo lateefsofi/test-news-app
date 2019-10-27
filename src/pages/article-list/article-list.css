@@ -1,0 +1,21 @@
+.article-list-container{
+  padding: 0;
+}
+.article-list-container li{
+  display: block;
+  width: 100%;
+  padding: 12px 0px;
+  border-bottom: 1px solid #cccccc;
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+  box-sizing: border-box;
+}
+
+.article-list-container li:hover{
+  background: #000000;
+  color: #ffffff;
+}
+
+.article-list-container li div{
+  width: 100%;
+}
